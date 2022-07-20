@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@1,700&family=Lobster&family=Poppins:wght@500&family=Roboto+Slab:wght@400;500&family=Ubuntu:ital,wght@1,500&display=swap');
+
+body {
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#live {
+    background-color: red;
+    border-radius: 5px;
+    width: 140px;
+    padding-left: 6px;
+    padding-top: 13px;
+    height: 40px;
+
+}
+
+.head {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+
+}
+
+.earth {
+    padding-left: 40px;
+    width: 300px;
+    height: 500px;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.img-player {
+
+    padding-left: 50px;
+
+
+}
+
+.img-player img {
+    width: 480px;
+    height: 480px;
+}
+
+.main {
+    padding-left: 40px;
+    display: flex;
+    width: 75%;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    border: 1px solid black;
+    border-radius: 40px;
+
+
+}
+
+
+.container-two {
+    margin: 10px;
+    background-color: aqua;
+}
